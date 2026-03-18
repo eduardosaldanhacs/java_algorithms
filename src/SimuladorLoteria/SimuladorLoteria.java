@@ -28,6 +28,8 @@ public class SimuladorLoteria {
                 System.out.println(Arrays.toString(numerosEscolhidos));
             }
             Bilhete bilhete = new Bilhete(numerosEscolhidos);
+            Arrays.fill(numerosEscolhidos, 0); //todos os valores ficam zerados;
+
             bilhetes.add(bilhete);
 
             System.out.println("Deseja fazer outro bilhete? S - N");

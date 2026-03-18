@@ -71,10 +71,6 @@ public class Bilhete {
 }
 
 /*
-
-
-
-
         > 7 - Fechar o Scanner:
 
 Ao final do programa, lembre-se de fechar o Scanner para evitar vazamento de recursos.
