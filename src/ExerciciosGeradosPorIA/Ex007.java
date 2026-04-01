@@ -33,7 +33,7 @@ package ExerciciosGeradosPorIA;
     [1, 2, 3]
  */
 
-
+/*
 public class Ex007 {
     public static void main(String[] args) {
         int[] inteiros = {1, 2, 2, 3, 3, 4, 4, 4};
@@ -60,3 +60,4 @@ public class Ex007 {
         }
     }
 }
+*/
